@@ -1,7 +1,7 @@
 # HTML COUNTDOWN
 This is a very very simple and customisable HTML countdown of hours, minutes and seconds for meetings and events on-demand.
 
-# How does it works?
+# How does it work?
 
 1. Download the source code https://github.com/manuparra/htmlcountdown/archive/master.zip
 2. Unzip downloaded file.
