@@ -6,7 +6,11 @@ This is a very very simple and customisable HTML countdown of hours, minutes and
 1. Download the source code https://github.com/manuparra/htmlcountdown/archive/master.zip
 2. Unzip downloaded file.
 3. Open your browser and load ``index.html`` file from unzipped folder.
-4. Add URL parameters: index.html?hours=0&minutes=30&seconds=60&logoURL=http://databeersgrx.com/img/logo_big_120.png&textlogo=I DataBeers Granada will start in
+4. Add URL parameters (copy and paste): 
+
+``index.html?hours=0&minutes=30&seconds=60&logoURL=http://databeersgrx.com/img/logo_big_120.png&textlogo=I DataBeers Granada will start in``
+
+
 
 It  will show:
 
